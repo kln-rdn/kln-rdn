@@ -1,6 +1,6 @@
 ## Hello!
 
-My name is Kendra, I am a doctoral candidate in the field of nutrition. My research focuss on the relationship between purine metabolites, particularly uric acid, and cognitive decline in aging populations, with particular attention paid to examining the role of obesity and genetic risk factors in this relationship. I investigate these topics using epidemiological methods, and my role is foremost in the realm of data analysis in R, along with all the other aspects of doctorate work: hypothesis generation, study design, academic writing, etc.
+My name is Kendra, I am a doctoral candidate in the field of nutrition. My research focuses on the relationship between purine metabolites, particularly uric acid, and cognitive decline in aging populations, with particular attention paid to examining the role of obesity and genetic risk factors in this relationship. I investigate these topics using epidemiological methods, and my role is foremost in the realm of data analysis in R, along with all the other aspects of doctorate work: hypothesis generation, study design, academic writing, etc.
 
 ## Research & Career Interests
 
